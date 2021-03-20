@@ -1,2 +1,2 @@
-# STATS-Project-R
+# STATS-Projects-R
 Some statistics projects that were completed in the R programming laguage
